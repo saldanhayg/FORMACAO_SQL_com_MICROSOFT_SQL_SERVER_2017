@@ -1,7 +1,7 @@
 # SQL Server: Introdução ao SQL com Microsoft SQL Server 2017
 
 <h1>
-   <img src="hhttps://i.ibb.co/WF3ZKQ7/Capturar.png" border="0">
+   <img src="https://i.ibb.co/WF3ZKQ7/Capturar.png" border="0">
 </h1>
 
 ## Sobre: 
@@ -23,7 +23,7 @@ Aulas do curso :<br>
 
  ### Link deste curso  💻
 
- 🎯 <a href=https://cursos.alura.com.br/course/sql-com-sql-server-2017" target="blank">SQL Server: Introdução ao SQL com Microsoft SQL Server 2017</a>
+ 🎯 <a href="https://cursos.alura.com.br/course/sql-com-sql-server-2017" target="blank">SQL Server: Introdução ao SQL com Microsoft SQL Server 2017</a>
 
 
 ### Tecnologia utilizadas 🚀:
