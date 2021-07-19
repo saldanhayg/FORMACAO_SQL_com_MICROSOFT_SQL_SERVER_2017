@@ -1,7 +1,7 @@
 # FORMACAO SQL COM MICROSOFT SQL SERVER 2017
 
 <h1>
-   <img src="https://i.ibb.co/dJsVFk5/SQL-COM-MICROSOFT-SQL-SERVER-2017.pn" border="0">
+   <img src="https://i.ibb.co/dJsVFk5/SQL-COM-MICROSOFT-SQL-SERVER-2017.png" border="0">
 </h1>
 
 ## Sobre
