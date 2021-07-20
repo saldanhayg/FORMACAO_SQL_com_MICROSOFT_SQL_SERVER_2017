@@ -24,15 +24,15 @@ Aulas do curso :<br>
    <img src="https://i.ibb.co/5MNWnwz/Criando-database.jpg" border="0">
 </h2>
 <br>
-<h2>Criando Tabela 
+<h2>Criando Tabela<br>
    <img src="https://i.ibb.co/wJR6H0c/Tabela-Clientes.jpg" border="0">
 </h2>
 <br>
-<h2>Alterando a Tabela 
+<h2>Alterando a Tabela<br>
    <img src="https://i.ibb.co/0VnyKGd/ALTERANDO-CHAVE-PRIMARIA.jpg" border="0">
 </h2>
 <br>
-<h2>Chave Primaria 
+<h2>Chave Primaria<br>
    <img src="https://i.ibb.co/g66y7SX/primary-key.jpg" border="0">
 </h2>
 <br>
