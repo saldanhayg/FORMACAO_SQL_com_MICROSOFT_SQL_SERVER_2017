@@ -1,4 +1,4 @@
-# 👩🏼‍💻 SQL Server: Introdução ao SQL com Microsoft SQL Server 2017
+# 🤘 SQL Server: Introdução ao SQL com Microsoft SQL Server 2017
 
 <h1>
    <img src="https://i.ibb.co/WF3ZKQ7/Capturar.png" border="0">
@@ -20,19 +20,19 @@ Aulas do curso :<br>
 ✅ **Manutenção dos dados nas tabelas**<br>
 ✅ **Consultando os dados**<br><br>
 
-<h2>
+<h2>Criando Database<br>
    <img src="https://i.ibb.co/5MNWnwz/Criando-database.jpg" border="0">
 </h2>
 <br>
-<h2>
+<h2>Criando Tabela 
    <img src="https://i.ibb.co/wJR6H0c/Tabela-Clientes.jpg" border="0">
 </h2>
 <br>
-<h2>
+<h2>Alterando a Tabela 
    <img src="https://i.ibb.co/0VnyKGd/ALTERANDO-CHAVE-PRIMARIA.jpg" border="0">
 </h2>
 <br>
-<h2>
+<h2>Chave Primaria 
    <img src="https://i.ibb.co/g66y7SX/primary-key.jpg" border="0">
 </h2>
 <br>
