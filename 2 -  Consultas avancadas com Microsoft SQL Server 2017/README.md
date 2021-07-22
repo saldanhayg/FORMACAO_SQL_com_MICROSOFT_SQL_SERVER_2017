@@ -20,20 +20,42 @@ Aulas do curso :<br>
 ✔  **Juntando tabelas e consultas**<br> 
 ✔  **Funções do SQL Server**<br> 
 ✔  **Exemplos de relatórios**<br><br>
-<h2><br>
-   <img src="" border="0">
+
+<h2>LIKE<br>
+   <img src="https://i.ibb.co/gv0zLwx/Like.jpg" alt="Like" border="0">
 </h2>
 <br>
-<h2>Criando Tabela<br>
-   <img src="" border="0">
+<h2>DISTINCT<br>
+   <img src="https://i.ibb.co/9pLk5RK/Distinct.jpg" alt="Distinct" border="0">
 </h2>
 <br>
-<h2>Alterando a Tabela<br>
-   <img src="" border="0">
+<h2>ORDER by<br>
+  <img src="https://i.ibb.co/VvPqLtM/Order-by.jpg" alt="Order-by" border="0"> 
 </h2>
 <br>
-<h2>Chave Primaria<br>
-   <img src="" border="0">
+<h2>GROUP by<br>
+   <img src="https://i.ibb.co/jDkYgHP/GROUPBY.jpg" alt="GROUPBY" border="0"> 
+</h2>
+<br>
+<h2>HAVING<br>
+      <img src="https://i.ibb.co/G9nKPCM/HAVING.jpg" alt="HAVING" border="0">
+</h2>
+<br>
+<h2>CASE<br>
+      <img src="https://i.ibb.co/Qc32dVX/CASE.jpg" alt="CASE" border="0">
+</h2>
+<br>
+<h2>SUB CONSULTAS <br>
+      <img src="https://i.ibb.co/wWQBjnh/Sub-consultas.jpg" alt="Sub-consultas" border="0">
+</h2>
+<br>
+
+<h2>CREATE VIEW <br>
+      <img src="https://i.ibb.co/jrRPrwJ/CREATE-VIEW.jpg" alt="CREATE-VIEW" border="0">
+</h2>
+<br>
+<h2>DATA TYPE CONVERSION <br>
+      <img src="https://i.ibb.co/k91Rhpd/SQL-Server-Data-Type-Conversion-Chart.png" alt="SQL-Server-Data-Type-Conversion-Chart" border="0">
 </h2>
 <br>
 
