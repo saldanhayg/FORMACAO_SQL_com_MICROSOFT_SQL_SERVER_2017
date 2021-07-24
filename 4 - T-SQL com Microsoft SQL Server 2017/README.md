@@ -22,20 +22,48 @@ Aulas do curso :<br>
 ✔  **Cursor e um exemplo prático**<br>
 
 <br>
-<h2><br>
-   <img src="" border="0">
+<h2>
+   <img src="https://i.ibb.co/Sww2RNK/1.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0">  
 </h2>
 <br>
-<h2>Criando Tabela<br>
-   <img src="" border="0">
+<h2>
+   <img src="https://i.ibb.co/R2fRJ7h/2.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
 </h2>
 <br>
-<h2>Alterando a Tabela<br>
-   <img src="" border="0">
+<h2>
+   <img src="https://i.ibb.co/rpjmrM6/3.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
 </h2>
 <br>
-<h2>Chave Primaria<br>
-   <img src="" border="0">
+<h2>
+   <img src="https://i.ibb.co/ZKKpDTz/4.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/m85ZjKg/5.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/N3nH8ch/6.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/RvVMT5g/7.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0">  
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/gSGL16t/8.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/Xz8RTSn/9.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/8xxP8GK/10.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   
 </h2>
 <br>
 
