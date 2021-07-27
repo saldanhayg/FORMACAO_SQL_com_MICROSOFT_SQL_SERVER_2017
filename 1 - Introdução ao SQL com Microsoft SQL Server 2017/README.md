@@ -41,14 +41,14 @@ Aulas do curso :<br>
 
  🎯 <a href="https://cursos.alura.com.br/course/sql-com-sql-server-2017" target="blank">SQL Server: Introdução ao SQL com Microsoft SQL Server 2017</a>
 
-
 ### Tecnologia utilizadas 🚀:
 
 * <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server 2017 Developer Edition</a> 
 * <a href="https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms">SQL Server Management Studio</a> 
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
 “Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin

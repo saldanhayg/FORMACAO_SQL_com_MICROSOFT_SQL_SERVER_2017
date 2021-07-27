@@ -63,7 +63,23 @@ Aulas do curso :<br>
 </h2>
 <br>
 <h2>
-   
+   <img src="https://i.ibb.co/bsb62FF/11.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/WnLSmLx/12.jpg" alt="T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/VLV74Jq/13.jpg" alt="T-SQL com Microsoft SQL Server 2017" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/GWr4znB/14.jpg" alt=" T-SQL com Microsoft SQL Server 2017" border="0"> 
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/LgbQGzH/15.jpg" alt="15" border="0"> 
 </h2>
 <br>
 
@@ -75,9 +91,10 @@ Aulas do curso :<br>
 
 * <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server 2017 Developer Edition</a> 
 * <a href="https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms">SQL Server Management Studio</a> 
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
 “Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
