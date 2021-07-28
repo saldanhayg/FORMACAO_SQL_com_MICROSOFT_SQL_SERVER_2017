@@ -21,20 +21,80 @@ Aulas do curso :<br>
 ✔  **Plano de consultas**<br>
 
 <br>
-<h2><br>
-   <img src="" border="0">
+<h2>
+   <img src="https://i.ibb.co/jM8FTQ0/1.jpg" alt="Administração do Microsoft SQL Server" border="0">
 </h2>
 <br>
-<h2>Criando Tabela<br>
-   <img src="" border="0">
+<h2>Validando instalação via CMD<br>
+   <img src="https://i.ibb.co/kqvk6vJ/2.jpg" alt="Administração do Microsoft SQL Server" border="0">
 </h2>
 <br>
-<h2>Alterando a Tabela<br>
-   <img src="" border="0">
+<h2>Criando usuário <br>
+   <img src="https://i.ibb.co/QfSkcx8/3.jpg" alt="Administração do Microsoft SQL Server" border="0">
 </h2>
 <br>
-<h2>Chave Primaria<br>
-   <img src="" border="0">
+<h2>Segurança - Contas de Serviço <br>
+<img src="https://i.ibb.co/p03vtgP/4.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>Segurança - Autorização de acesso<br>
+   <img src="https://i.ibb.co/NZV4J32/5.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>Segurança - Autorização de acesso<br>
+      <img src="https://i.ibb.co/0DS9XGY/6.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>Segurança - Autorização de acesso<br>
+   <img src="https://i.ibb.co/pbygKGJ/7.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/3cFCP77/8.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>Autorização<br>
+<img src="https://i.ibb.co/2MjKPyn/9.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/BB0pHMS/10.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>
+    <img src="https://i.ibb.co/1r9VrLM/11.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>  
+   <img src="https://i.ibb.co/GFzZwqS/12.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2> 
+   <img src="https://i.ibb.co/SmsKJqG/13.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2> 
+   <img src="https://i.ibb.co/WkXW0mz/14.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2> 
+   <img src="https://i.ibb.co/2k9vp1h/15.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>  
+   <img src="https://i.ibb.co/mzM4p9p/16.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>
+      <img src="https://i.ibb.co/6HX7Bmr/17.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>   
+   <img src="https://i.ibb.co/10mQnrN/18.jpg" alt="Administração do Microsoft SQL Server" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/4YvBH89/19.jpg" alt="Administração do Microsoft SQL Server" border="0">
 </h2>
 <br>
 
